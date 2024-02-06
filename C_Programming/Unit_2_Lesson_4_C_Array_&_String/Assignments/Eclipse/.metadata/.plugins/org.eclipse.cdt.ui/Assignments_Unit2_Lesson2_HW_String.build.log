@@ -1,0 +1,9 @@
+20:07:33 **** Rebuild of configuration Debug for project Assignments_Unit2_Lesson2_HW_String ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o EX2.o "..\\EX2.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o EX3.o "..\\EX3.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o EX1.o "..\\EX1.c" 
+gcc -o Assignments_Unit2_Lesson2_HW_String.exe EX1.o EX2.o EX3.o 
+
+20:07:34 Build Finished (took 850ms)
+

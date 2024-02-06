@@ -1,0 +1,25 @@
+14:53:49 **** Incremental Build of configuration Debug for project Hardwork1 ****
+Info: Internal Builder is used for build
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX5.o "..\\EX5.c" 
+gcc --std=c89 -o Hardwork1.exe EX1.o EX2.o EX3.o EX4.o EX5.o EX6.o EX7.o 
+Info: Nothing to build for Hardwork1
+14:55:03 **** Incremental Build of configuration Debug for project Hardwork1 ****
+Info: Internal Builder is used for build
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX5.o "..\\EX5.c" 
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX4.o "..\\EX4.c" 
+gcc --std=c89 -o Hardwork1.exe EX1.o EX2.o EX3.o EX4.o EX5.o EX6.o EX7.o 
+14:56:29 **** Incremental Build of configuration Debug for project Hardwork1 ****
+Info: Internal Builder is used for build
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX3.o "..\\EX3.c" 
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX4.o "..\\EX4.c" 
+gcc --std=c89 -o Hardwork1.exe EX1.o EX2.o EX3.o EX4.o EX5.o EX6.o EX7.o 
+14:57:58 **** Incremental Build of configuration Debug for project Hardwork1 ****
+Info: Internal Builder is used for build
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX3.o "..\\EX3.c" 
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX2.o "..\\EX2.c" 
+gcc --std=c89 -o Hardwork1.exe EX1.o EX2.o EX3.o EX4.o EX5.o EX6.o EX7.o 
+14:59:16 **** Incremental Build of configuration Debug for project Hardwork1 ****
+Info: Internal Builder is used for build
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX2.o "..\\EX2.c" 
+gcc --std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX1.o "..\\EX1.c" 
+gcc --std=c89 -o Hardwork1.exe EX1.o EX2.o EX3.o EX4.o EX5.o EX6.o EX7.o 

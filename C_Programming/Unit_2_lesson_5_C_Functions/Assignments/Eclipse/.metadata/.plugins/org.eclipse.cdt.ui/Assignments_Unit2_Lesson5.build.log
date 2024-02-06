@@ -1,0 +1,19 @@
+14:13:13 **** Incremental Build of configuration Debug for project Assignments_Unit2_Lesson5 ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX2.o "..\\EX2.c" 
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX1.o "..\\EX1.c" 
+..\EX1.c: In function 'isprime':
+..\EX1.c:20:2: warning: statement with no effect [-Wunused-value]
+  for(inital;inital<=num-1;inital++)
+  ^~~
+..\EX1.c: In function 'main':
+..\EX1.c:45:2: warning: statement with no effect [-Wunused-value]
+  for(low;low<=high;low++)
+  ^~~
+..\EX1.c:53:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -ansi -std=c89 -o Assignments_Unit2_Lesson5.exe EX1.o EX2.o EX3.o EX4.o 
+
+14:13:14 Build Finished (took 669ms)
+

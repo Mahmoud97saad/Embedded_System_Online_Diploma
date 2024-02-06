@@ -1,0 +1,17 @@
+/*
+ * EX3.c
+ *
+ *  Created on: Jan 30, 2024
+ *      Author: mahmo
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+int main()
+{
+
+}
+

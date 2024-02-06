@@ -1,0 +1,10 @@
+20:09:48 **** Rebuild of configuration Debug for project Assignments_Unit2_Lesson2 ****
+Info: Internal Builder is used for build
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX5.o "..\\EX5.c" 
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX3.o "..\\EX3.c" 
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX4.o "..\\EX4.c" 
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX2.o "..\\EX2.c" 
+gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o EX1.o "..\\EX1.c" 
+gcc -ansi -std=c89 -o Assignments_Unit2_Lesson2.exe EX1.o EX2.o EX3.o EX4.o EX5.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status

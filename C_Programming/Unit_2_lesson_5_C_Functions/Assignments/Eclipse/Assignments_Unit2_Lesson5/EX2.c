@@ -1,0 +1,38 @@
+/*
+ * EX2.c
+ * Solve Homework 4
+ * Created on: Jan 30, 2024
+ * Author: mahmoud saad
+ */
+
+/*
+ * EXZ: C program to Calculate Factorial ofa Number Using Recursion
+ */
+/*
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int factorial(int num)
+{
+if(num>1)
+	return num*factorial(num-1);
+else
+	return 1;
+}
+
+
+int main()
+{
+	int num;
+	int result;
+	printf("##########Console-output##########\n");
+	printf("Enter an positive integer:");
+	fflush(stdin);         fflush(stdout);
+	scanf("%d",&num);
+	result = factorial(num);
+	printf("Factorial of %d : %d",num,result);
+
+}
+
+*/
